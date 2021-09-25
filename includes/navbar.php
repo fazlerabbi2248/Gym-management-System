@@ -22,13 +22,19 @@
         <a class="nav-link" href="blog.php">Blog</a>
       </li>
        <li class="nav-item">
-        <a class="nav-link" href="Gallary.php">Gallary</a>
+        <a class="nav-link" href="Gallery.php">Gallery</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="about.php">About</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="contact.php">Contact</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="Schedule.php">Schedule</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="AddMember.php">Add Member</a>
       </li>
       
       <form class="form-inline my-2 my-lg-0" action="membership.php">
