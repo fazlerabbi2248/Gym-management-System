@@ -10,6 +10,7 @@
   }
  .navbar{
  	height: 80px;
+ 	font: white;
  }
  .dropdown-item{
  	font: message-box;

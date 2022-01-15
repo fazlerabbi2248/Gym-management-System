@@ -12,11 +12,11 @@
          if(!empty($comment))
          {
             
-               	$host = "localhost";
+               $host = "localhost";
 	            $dbusername = "root";
 	            $dbpassword = "";
 	            $dbname = "gymmaster";
-// Create connection
+              // Create connection
 	            $conn = new mysqli ($host, $dbusername, $dbpassword, $dbname);
 	            if (mysqli_connect_error()){
 	             die('Connect Error ('. mysqli_connect_errno() .') '

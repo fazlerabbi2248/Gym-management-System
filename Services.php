@@ -20,7 +20,7 @@
 
 
 
-     <div class="card-group" style="width:1200px">
+    <div class="card-group" style="width:1200px">
   
 <div class="card">
       <div class="card-image">

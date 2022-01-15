@@ -30,8 +30,11 @@
               $sql = "INSERT INTO memberinformation (firstname,lastname, username,age, email, mobile)
               values ('$firstname','$lastname','$username','$age','$email','$mobile')";
               if ($conn->query($sql)){
-                echo "Welcome to our gymmaster";
-                  }
+                         echo '<script>alert("Records insert successfully.")</script>';
+                         echo '<script language="javascript">';
+                           echo 'alert("Successfully insert"); location.href="membership.php"';
+                            echo '</script>';
+                                  }
               else{
                  echo "Error: ". $sql ."". $conn->error;
                  }

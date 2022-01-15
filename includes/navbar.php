@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-warning bg-dark">
+<nav class="navbar navbar-expand-lg navbar-info bg-dark">
 
   <a class="navbar-brand" href="index.php">
     <img src="img/1.jpg" alt="Logo" style="width:40px;">
@@ -21,8 +21,11 @@
       <li class="nav-item">
         <a class="nav-link" href="blog.php">Blog</a>
       </li>
+             <li class="nav-item">
+        <a class="nav-link" href="home_shedule_details.php">Shedule</a>
+      </li>
        <li class="nav-item">
-        <a class="nav-link" href="Gallary.php">Gallary</a>
+        <a class="nav-link" href="Gallary.php">Gallery</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="about.php">About</a>

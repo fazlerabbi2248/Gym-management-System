@@ -19,8 +19,8 @@
 </head>
 <body>
 
-<?php include ("includes/navbar.php"); ?>
 
+<?php include ("includes/navbar.php"); ?>
 
 
 <div id="demo" class="carousel slide" data-ride="carousel">

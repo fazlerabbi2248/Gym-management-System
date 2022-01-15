@@ -43,6 +43,16 @@
              <a href="priyoprofile.php" class="btn btn-primary">See Details</a>
              </div>
         </div>
+        
+      <div class="col-lg-6 col-md-6 col-12" >
+        <div class="card" >
+           <img class="card-img-top" src="img/priyo.jpg" alt="Card image" >
+             <div class="card-body">
+             <h4 class="card-title">Shariar Priyo</h4>
+             <p class="card-text">Website Developer</p>
+             <a href="priyoprofile.php" class="btn btn-primary">See Details</a>
+             </div>
+        </div>
 
         
 
